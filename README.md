@@ -1,6 +1,6 @@
 # onboarding_example
 
-A new Flutter project.
+![](https://github.com/markruzo/onboarding_example/blob/main/assets/screens/cover/cover.png)
 
 ## Getting Started
 
